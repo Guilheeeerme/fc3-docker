@@ -8,8 +8,8 @@ const port = 3000;
 
 const config = {
   host: "db",
-  user: "descubra",
-  password: "descubra",
+  user: "root",
+  password: "root",
   database: "nodedb",
   port: "3306",
 };
