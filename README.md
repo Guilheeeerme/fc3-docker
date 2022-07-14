@@ -14,7 +14,6 @@ $ cd nginx-node-mysql/
 
 # Execute o app com Docker Compose: 
 $ docker-compose up -d
-
-Acesse via Nginx em localhost:8080 (Toda vez que a página for recarregada, um novo name será adicionado na lista).
 ```
+##### Acesse via Nginx em localhost:8080 (Toda vez que a página for recarregada, um novo name será adicionado no banco de dados).
 
